@@ -23,8 +23,7 @@ public class Q08 {
         double price = scan.nextDouble();
         double totalPrice;
 
-        System.out
-                .println("Musteri kartiniz var mi? Varsa Y yoksa N tusuna basiniz");
+        System.out.println("Musteri kartiniz var mi? Varsa Y yoksa N tusuna basiniz");
         char card = scan.next().toLowerCase().charAt(0);
 
         if (card == 'y') {

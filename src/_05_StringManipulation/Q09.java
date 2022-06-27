@@ -2,7 +2,7 @@ package _05_StringManipulation;
 
 import java.util.Scanner;
 
-public class Q09 {
+public class  Q09 {
 
     public static void main(String[] args) {
 
